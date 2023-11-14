@@ -1,0 +1,38 @@
+{
+  "-MiBsfuTafbEQ7eAULxV" : {
+    "name" : "Smooth Smoothie",
+    "firebaseKey" : "-MiBsfuTafbEQ7eAULxV",
+    "category" : "Nutrition",
+    "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2020/11/19/0/FNK_Strawberry-Banana-Smoothie_H_s4x3.jpg.rend.hgtvcom.616.462.suffix/1605818669813.jpeg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2",
+    "milestone_id": "-MiBuU13EaKmGOMjJF-X",
+    "week": "1"
+  },
+  "-MiBt86VzkC-EGmJnxjm" : {
+    "name" : "Date Night Suggestion",
+    "firebaseKey" : "-MiBt86VzkC-EGmJnxjm",
+    "category" : "Activity",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/002/413/467/small/date-night-neon-signs-style-text-vector.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2",
+    "milestone_id": "-MiBuU13EaKmGOMjJF-X",
+    "week": "1"
+  },
+  "-MiBtwf1BwN9pGavQeR3" : {
+    "name" : "Dr. Appointment",
+    "firebaseKey" : "-MiBtwf1BwN9pGavQeR3",
+    "category" : "Appointment",
+    "image": "https://static.vecteezy.com/system/resources/previews/012/942/788/original/book-doctor-appointment-2d-isolated-illustration-regular-examination-flat-character-on-cartoon-background-scheduling-colourful-editable-scene-for-mobile-website-presentation-vector.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2",
+    "milestone_id": "-MiBuU13EaKmGOMjJF-X",
+    "week": "1"
+  },
+  "-MiBuOfHv9NCKB_cneij" : {
+    "name" : "DERREK",
+    "firebaseKey" : "-MiBuOfHv9NCKB_cneij",
+    "category" : "Memory",
+    "image": "https://img.freepik.com/premium-vector/cartoon-brain-lifting-barbell-make-books-funny-brain-workout-print-poster-mind-exercise-memory-willpower-concentration-training-vector-illustration_540634-134.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2",
+    "milestone_id": "-MiBuU13EaKmGOMjJF-X",
+    "week": "1"
+  }
+}
