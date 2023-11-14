@@ -1,0 +1,34 @@
+{
+  
+"-MiBuU13EaKmGOMjJF-X" : {
+    "week" : "1",
+    "firebaseKey" : "-MiBuU13EaKmGOMjJF-X",
+    "note" : "While there isn't a baby growing yet, your partner's body is getting ready for pregnancy.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Eo_circle_blue_number-1.svg/2048px-Eo_circle_blue_number-1.svg.png",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-LiBuU13EaKmGOMjJF-Y" : {
+    "week" : "2",
+    "firebaseKey" : "-LiBuU13EaKmGOMjJF-Y",
+    "note" : "In the ovary, an egg is maturing and getting ready to break free.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Eo_circle_blue_number-2.svg/1024px-Eo_circle_blue_number-2.svg.png",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-BiBuU13EaKmGOMjJF-Z" : {
+    "week" : "3",
+    "firebaseKey" : "-BiBuU13EaKmGOMjJF-Z",
+    "note" : "This week the fertilized egg grows from a one-cell zygote into a ball of cells called a blastocyst.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Eo_circle_brown_number-3.svg/768px-Eo_circle_brown_number-3.svg.png",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-PiBuU13EaKmGOMjJF-A" : {
+    "week" : "4",
+    "firebaseKey" : "-PiBuU13EaKmGOMjJF-A",
+    "note" : "To inspire the next generation in making their dreams a reality",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Eo_circle_purple_white_number-4.svg/1200px-Eo_circle_purple_white_number-4.svg.png",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  }
+}
