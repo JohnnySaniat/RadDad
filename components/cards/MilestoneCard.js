@@ -14,11 +14,11 @@ function MilestoneCard({ milestoneObj, onUpdate }) {
   };
 
   return (
-    <Card style={{ width: '18rem', margin: '10px' }}>
+    <Card style={{ width: '22rem', margin: '20px' }}>
       <Card.Img variant="top" src={milestoneObj.image} alt={milestoneObj.week} style={{ height: '400px' }} />
       <Card.Body>
         <Card.Title>{milestoneObj.week}</Card.Title>
-        <span>{milestoneObj.note}</span>
+        <span>{milestoneObj.description}</span>
         <br />
         <Link href={`/milestone/${milestoneObj.firebaseKey}`} passHref>
           <Button variant="primary" className="m-2">VIEW</Button>
@@ -38,7 +38,7 @@ MilestoneCard.propTypes = {
   milestoneObj: PropTypes.shape({
     week: PropTypes.string,
     image: PropTypes.string,
-    note: PropTypes.string,
+    description: PropTypes.string,
     firebaseKey: PropTypes.string,
   }).isRequired,
   onUpdate: PropTypes.func.isRequired,
