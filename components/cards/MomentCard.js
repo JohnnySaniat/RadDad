@@ -14,12 +14,13 @@ function MomentCard({ momentObj, onUpdate }) {
   };
 
   return (
-    <Card style={{ width: '18rem', margin: '10px' }}>
+    <Card style={{ width: '22rem', margin: '20px' }}>
       <Card.Img variant="top" src={momentObj.image} alt={momentObj.name} style={{ height: '400px' }} />
       <Card.Body>
-        <Card.Title>{momentObj.name}</Card.Title>
-        <Card.Text>{momentObj.category}</Card.Text>
-        <Card.Text>{momentObj.week}</Card.Text>
+        <Card.Title>{momentObj.category}</Card.Title>
+        <Card.Text>{momentObj.name}</Card.Text>
+        <Card.Text>{momentObj.description}</Card.Text>
+        <Card.Text>Week: {momentObj.week}</Card.Text>
         <Link href={`/moment/${momentObj.firebaseKey}`} passHref>
           <Button variant="primary" className="m-2">VIEW</Button>
         </Link>
@@ -40,6 +41,7 @@ MomentCard.propTypes = {
     name: PropTypes.string,
     week: PropTypes.string,
     firebaseKey: PropTypes.string,
+    description: PropTypes.string,
     category: PropTypes.string,
     milestone_id: PropTypes.string,
   }).isRequired,

@@ -4,7 +4,6 @@ import { Button } from 'react-bootstrap';
 import { getMoments } from '../api/momentData';
 import { useAuth } from '../utils/context/authContext';
 import MomentCard from '../components/cards/MomentCard';
-// import SearchBar from '../components/search/SearchBar';
 
 function ShowMoments() {
   const [moments, setMoments] = useState([]);

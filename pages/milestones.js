@@ -21,7 +21,7 @@ function ShowMilestones() {
 
   return (
     <div className="text-center my-4">
-      <Link href="/team/new" passHref>
+      <Link href="/milestone/new" passHref>
         <Button>Add A Milestone</Button>
       </Link>
       <div className="d-flex flex-wrap">

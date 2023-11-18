@@ -1,34 +1,34 @@
 {
   
 "-MiBuU13EaKmGOMjJF-X" : {
-    "week" : "1",
+    "week" : "Conception",
     "firebaseKey" : "-MiBuU13EaKmGOMjJF-X",
-    "note" : "While there isn't a baby growing yet, your partner's body is getting ready for pregnancy.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Eo_circle_blue_number-1.svg/2048px-Eo_circle_blue_number-1.svg.png",
+    "description" : "While there isn't a baby growing yet, your partner's body is getting ready for pregnancy.",
+    "image": "https://assets-v2.lottiefiles.com/a/2cc2ab68-1165-11ee-a436-4facb61128a7/qyD8AELyKQ.gif",
     "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
   },
 
   "-LiBuU13EaKmGOMjJF-Y" : {
-    "week" : "2",
+    "week" : "4",
     "firebaseKey" : "-LiBuU13EaKmGOMjJF-Y",
-    "note" : "In the ovary, an egg is maturing and getting ready to break free.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Eo_circle_blue_number-2.svg/1024px-Eo_circle_blue_number-2.svg.png",
+    "description" : "The tiny life inside your partner (which is technically an embryo) is implanting in the uterus, where it will grow and develop.",
+    "image": "https://cdn.dribbble.com/users/690291/screenshots/3494754/media/45500a9f1f947b19ab6aa63125ec5b08.gif",
     "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
   },
 
   "-BiBuU13EaKmGOMjJF-Z" : {
-    "week" : "3",
+    "week" : "35",
     "firebaseKey" : "-BiBuU13EaKmGOMjJF-Z",
-    "note" : "This week the fertilized egg grows from a one-cell zygote into a ball of cells called a blastocyst.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Eo_circle_brown_number-3.svg/768px-Eo_circle_brown_number-3.svg.png",
+    "description" : "The bulk of the baby's development is already complete, but your little one more than puts these final weeks before birth to good use.",
+    "image": "https://cdn.dribbble.com/users/690291/screenshots/3510188/media/16e0021df389ae78243c4017e611e60a.gif",
     "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
   },
 
   "-PiBuU13EaKmGOMjJF-A" : {
-    "week" : "4",
+    "week" : "40",
     "firebaseKey" : "-PiBuU13EaKmGOMjJF-A",
-    "note" : "To inspire the next generation in making their dreams a reality",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Eo_circle_purple_white_number-4.svg/1200px-Eo_circle_purple_white_number-4.svg.png",
+    "description" : " You've reached the milestone everyone's been counting down to from the beginning",
+    "image": "https://cdn.dribbble.com/users/690291/screenshots/3492348/media/0cace5c3ca07c6b07ae4d594437750d5.gif",
     "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
   }
 }

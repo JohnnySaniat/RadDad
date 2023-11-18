@@ -71,7 +71,7 @@ const updateMilestone = (payload) => new Promise((resolve, reject) => {
 });
 
 const getMilestoneMoments = (firebaseKey) => new Promise((resolve, reject) => {
-  fetch(`${endpoint}/milestones.json?orderBy="milestone_id"&equalTo="${firebaseKey}"`, {
+  fetch(`${endpoint}/moments.json?orderBy="milestone_id"&equalTo="${firebaseKey}"`, {
     method: 'GET',
     headers: {
       'Content-Type': 'application/json',

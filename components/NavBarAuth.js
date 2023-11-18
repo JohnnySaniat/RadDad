@@ -21,13 +21,13 @@ export default function NavBarAuth() {
               <Nav.Link>Milestones</Nav.Link>
             </Link>
             <Link passHref href="/milestone/new">
-              <Nav.Link>Add a Milestone</Nav.Link>
+              <Nav.Link>Create a Milestone</Nav.Link>
             </Link>
             <Link passHref href="/moments">
               <Nav.Link>Moments</Nav.Link>
             </Link>
             <Link passHref href="/moment/new">
-              <Nav.Link>Add a Moment</Nav.Link>
+              <Nav.Link>Create a Moment</Nav.Link>
             </Link>
             <Button type="button" className="btn-danger" onClick={signOut}>Sign Out</Button>
           </Nav>

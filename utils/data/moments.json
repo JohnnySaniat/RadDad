@@ -1,38 +1,41 @@
 {
   "-MiBsfuTafbEQ7eAULxV" : {
-    "name" : "Smooth Smoothie",
+    "name" : "Kale & Banana Smoothie",
     "firebaseKey" : "-MiBsfuTafbEQ7eAULxV",
-    "category" : "Nutrition",
-    "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2020/11/19/0/FNK_Strawberry-Banana-Smoothie_H_s4x3.jpg.rend.hgtvcom.616.462.suffix/1605818669813.jpeg",
+    "category" : "Sustain",
+    "image": "https://www.eatingwell.com/thmb/Tw8wpcHN62qH4hzwnnPyGah4DAA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/kale-banana-smoothie-441d280baddd4c31bfcaedfac74aacbf.jpg",
     "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2",
+    "description": "This simple and sweet kale and banana smoothie is also versatile: Use cow's milk for a milkshake-style smoothie, oat milk for more sweetness, or a nut milk for more protein.",
     "milestone_id": "-MiBuU13EaKmGOMjJF-X",
-    "week": "1"
+    "week": "Conception"
   },
   "-MiBt86VzkC-EGmJnxjm" : {
-    "name" : "Date Night Suggestion",
+    "name" : "Expectations",
     "firebaseKey" : "-MiBt86VzkC-EGmJnxjm",
-    "category" : "Activity",
-    "image": "https://static.vecteezy.com/system/resources/thumbnails/002/413/467/small/date-night-neon-signs-style-text-vector.jpg",
+    "category" : "Learn",
+    "image": "https://www.strengthscope.com/wp-content/uploads/2020/03/Clear-expectations_1500x815.jpg",
     "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2",
+    "description": "Do you want to talk about how you both feel about pregnancy and your expectations.",
     "milestone_id": "-MiBuU13EaKmGOMjJF-X",
-    "week": "1"
+    "week": "Conception"
   },
   "-MiBtwf1BwN9pGavQeR3" : {
-    "name" : "Dr. Appointment",
+    "name" : "Determine a Doctor or Midwife",
     "firebaseKey" : "-MiBtwf1BwN9pGavQeR3",
-    "category" : "Appointment",
+    "category" : "Schedule",
     "image": "https://static.vecteezy.com/system/resources/previews/012/942/788/original/book-doctor-appointment-2d-isolated-illustration-regular-examination-flat-character-on-cartoon-background-scheduling-colourful-editable-scene-for-mobile-website-presentation-vector.jpg",
     "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2",
+    "description": "Schedule a preconception appointment.",
     "milestone_id": "-MiBuU13EaKmGOMjJF-X",
-    "week": "1"
+    "week": "Conception"
   },
   "-MiBuOfHv9NCKB_cneij" : {
-    "name" : "DERREK",
+    "name" : "Hike",
     "firebaseKey" : "-MiBuOfHv9NCKB_cneij",
-    "category" : "Memory",
-    "image": "https://img.freepik.com/premium-vector/cartoon-brain-lifting-barbell-make-books-funny-brain-workout-print-poster-mind-exercise-memory-willpower-concentration-training-vector-illustration_540634-134.jpg",
+    "category" : "Experience",
+    "image": "https://media.istockphoto.com/id/1296186378/vector/hiking-icon-walking-public-footpath-trail.jpg?s=612x612&w=0&k=20&c=KZEegKMT0vZ4KNNcNJ95T30CA4SciiOkieluCYhd3-M=",
     "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2",
-    "milestone_id": "-MiBuU13EaKmGOMjJF-X",
-    "week": "1"
+    "description": "Plan a hike to stay active together",
+    "week": "Conception"
   }
 }
