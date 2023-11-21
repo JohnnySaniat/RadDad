@@ -20,7 +20,6 @@ function MomentCard({ momentObj, onUpdate }) {
         <Card.Title>{momentObj.category}</Card.Title>
         <Card.Text>{momentObj.name}</Card.Text>
         <Card.Text>{momentObj.description}</Card.Text>
-        <Card.Text>Week: {momentObj.week}</Card.Text>
         <Link href={`/moment/${momentObj.firebaseKey}`} passHref>
           <Button variant="primary" className="m-2">VIEW</Button>
         </Link>
