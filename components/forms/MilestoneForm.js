@@ -10,7 +10,7 @@ import { createMilestone, getMilestones, updateMilestone } from '../../api/miles
 const initialState = {
   week: '',
   image: '',
-  note: '',
+  description: '',
 };
 
 function MilestoneForm({ obj }) {
