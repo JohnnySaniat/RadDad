@@ -4,6 +4,7 @@ import { Button } from 'react-bootstrap';
 import { getMoments } from '../api/momentData';
 import { useAuth } from '../utils/context/authContext';
 import MomentCard from '../components/cards/MomentCard';
+import SearchBar from '../components/SearchBar';
 
 function ShowMoments() {
   const [moments, setMoments] = useState([]);
@@ -21,6 +22,7 @@ function ShowMoments() {
   return (
     <>
       <div className="text-center my-4">
+        <SearchBar className="navSearch" />
         <Link href="/moment/new" passHref>
           <Button>Add A Moment</Button>
         </Link>
