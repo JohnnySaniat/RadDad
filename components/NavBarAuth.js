@@ -29,6 +29,9 @@ export default function NavBarAuth() {
             <Link passHref href="/moment/new">
               <Nav.Link>Create a Moment</Nav.Link>
             </Link>
+            <Link passHref href="/suggested">
+              <Nav.Link>Suggested Moments</Nav.Link>
+            </Link>
             <Button type="button" className="btn-danger" onClick={signOut}>Sign Out</Button>
           </Nav>
         </Navbar.Collapse>
