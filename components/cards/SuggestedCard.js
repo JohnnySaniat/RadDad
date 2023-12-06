@@ -8,14 +8,14 @@ import Link from 'next/link';
 function SuggestedCard({ stockObj }) {
   return (
 
-    <Card style={{ width: '22rem', margin: '20px' }}>
+    <Card className="complete-suggested-card" style={{ width: '22rem', margin: '20px' }}>
       <Card.Img variant="top" src={stockObj.image} alt={stockObj.name} style={{ height: '400px' }} />
       <Card.Body>
-        <Card.Title>{stockObj.category}</Card.Title>
+        <Card.Title className="card-title">{stockObj.category}</Card.Title>
         <Card.Text>{stockObj.name}</Card.Text>
-        <Card.Text>{stockObj.description}</Card.Text>
+        <Card.Text className="card-description">{stockObj.description}</Card.Text>
         <Link href={`/suggested/edit/${stockObj.firebaseKey}`} passHref>
-          <Button variant="info">Customize</Button>
+          <Button className="suggested-card-button" variant="secondary">Customize</Button>
         </Link>
       </Card.Body>
     </Card>

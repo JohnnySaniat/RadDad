@@ -88,6 +88,18 @@ const getMilestoneMoments = (firebaseKey) => new Promise((resolve, reject) => {
     .catch(reject);
 });
 
+const searchMilestones = (searchValue, uid) => new Promise((resolve, reject) => {
+  getMilestones(uid).then((milestoneArray) => {
+    const searchResults = milestoneArray.filter((milestone) => (
+      milestone.week.toLowerCase().includes(searchValue)
+      || milestone.description.toLowerCase().includes(searchValue)
+
+    ));
+    resolve(searchResults);
+    console.warn(searchResults);
+  }).catch(reject);
+});
+
 export {
   getMilestones,
   createMilestone,
@@ -95,4 +107,5 @@ export {
   deleteSingleMilestone,
   updateMilestone,
   getMilestoneMoments,
+  searchMilestones,
 };

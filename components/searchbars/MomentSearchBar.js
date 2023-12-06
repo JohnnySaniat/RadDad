@@ -2,7 +2,7 @@ import { useRouter } from 'next/router';
 import React, { useState } from 'react';
 import { Form, FormControl } from 'react-bootstrap';
 
-export default function SearchBar() {
+export default function MomentSearchBar() {
   const [searchInput, setSearchInput] = useState('');
   const router = useRouter();
 
@@ -12,9 +12,10 @@ export default function SearchBar() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    if (searchInput !== '') router.push(`/search/${searchInput}`);
+    if (searchInput !== '') router.push(`/searchmoments/${searchInput}`);
     setSearchInput('');
   };
+
   return (
     <Form id="search-bar" className="search-bar" onSubmit={handleSubmit}>
       <FormControl type="text" placeholder="Search Moments" size="med" onChange={handleChange} value={searchInput} />

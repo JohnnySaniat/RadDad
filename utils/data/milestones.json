@@ -1,34 +1,307 @@
 {
+
+  "-NkRnHfX4u5ZxLXrAK5Z" : {
+    "week" : "1",
+    "firebaseKey" : "-NkRnHfX4u5ZxLXrAK5Z",
+    "description" : "You may not even realize you’re pregnant until a few weeks in, but life is forming. This is the beginning of it all.",
+    "image": "https://i.ibb.co/sRRwFpM/Conception.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-NkRnHfX4u5ZxLXrAK5_" : {
+    "week" : "4",
+    "firebaseKey" : "-NkRnHfX4u5ZxLXrAK5_",
+    "description" : "The baby is approximately the size of a poppy seed! Even though the baby is so small at this stage of pregnancy, their cells begin to form organs!",
+    "image": "https://i.ibb.co/Myzy0qY/4.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-NkRnHfYjG5Kz3SzDCYe" : {
+    "week" : "5",
+    "firebaseKey" : "-NkRnHfYjG5Kz3SzDCYe",
+    "description" : "The baby is the size of a sesame seed. The brain, heart, blood vessels, and spinal cord have all begun forming!",
+    "image": "https://i.ibb.co/CmvfTDg/5.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-NkRnHfYjG5Kz3SzDCYf" : {
+    "week" : "6",
+    "firebaseKey" : "-NkRnHfYjG5Kz3SzDCYf",
+    "description" : "The baby has grown to the size of a lentil. That’s approximately three times the size they were the week prior!",
+    "image": "https://i.ibb.co/qNnJxrC/6.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
   
 "-MiBuU13EaKmGOMjJF-X" : {
-    "week" : "Conception",
+    "week" : "7",
     "firebaseKey" : "-MiBuU13EaKmGOMjJF-X",
-    "description" : "While there isn't a baby growing yet, your partner's body is getting ready for pregnancy.",
-    "image": "https://assets-v2.lottiefiles.com/a/2cc2ab68-1165-11ee-a436-4facb61128a7/qyD8AELyKQ.gif",
+    "description" : "The baby continues to grow, and has now reached the size of a blueberry! Its arms now look like little paddles!",
+    "image": "https://i.ibb.co/n3z2qD9/Blueberry.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-NkRnHfYjG5Kz3SzDCYg" : {
+    "week" : "8",
+    "firebaseKey" : "-NkRnHfYjG5Kz3SzDCYg",
+    "description" : "Your baby is the size of a raspberry! Fingers and toes begin to form during this time.",
+    "image": "https://i.ibb.co/gjb4Lsv/8.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-NkRnHfYjG5Kz3SzDCYh" : {
+    "week" : "9",
+    "firebaseKey" : "-NkRnHfYjG5Kz3SzDCYh",
+    "description" : "The baby has grown to the size of a grape and they now have eyes!",
+    "image": "https://i.ibb.co/1mByx5z/9.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-NkRnHfYjG5Kz3SzDCYi" : {
+    "week" : "10",
+    "firebaseKey" : "-NkRnHfYjG5Kz3SzDCYi",
+    "description" : "Your little one has reached the size of a kumquat! In addition to eyes, they are now forming eyebrows.",
+    "image": "https://i.ibb.co/Nj1pSpj/10.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-NkRnHfYjG5Kz3SzDCYj" : {
+    "week" : "11",
+    "firebaseKey" : "-NkRnHfYjG5Kz3SzDCYj",
+    "description" : "Your baby is approximately the size of a fig. Though you can’t feel it just yet, your baby has already started kicking!",
+    "image": "https://i.ibb.co/L17MKxZ/11.jpg",
     "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
   },
 
   "-LiBuU13EaKmGOMjJF-Y" : {
-    "week" : "4",
+    "week" : "12",
     "firebaseKey" : "-LiBuU13EaKmGOMjJF-Y",
-    "description" : "The tiny life inside your partner (which is technically an embryo) is implanting in the uterus, where it will grow and develop.",
-    "image": "https://cdn.dribbble.com/users/690291/screenshots/3494754/media/45500a9f1f947b19ab6aa63125ec5b08.gif",
+    "description" : "The baby has now reached the size of a lime. Their bones and nails are starting to form, and they now have a thin layer of hair! And congrats- you’ve reached the end of your first trimester!",
+    "image": "https://i.ibb.co/zskFbXb/Firefly-lime-wearing-a-diaper-1283-1.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-LiBuU13EaKmGOMjJF13" : {
+    "week" : "13",
+    "firebaseKey" : "-LiBuU13EaKmGOMjJF13",
+    "description" : "Your baby, which is now the size of a lemon, is beginning to develop vocal cords!",
+    "image": "https://i.ibb.co/0qpCByb/13.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-LiBuU13EaKmGOMjJF14" : {
+    "week" : "14",
+    "firebaseKey" : "-LiBuU13EaKmGOMjJF14",
+    "description" : "The baby is the size of a peach, babies at this age have been known to be able to squint or even suck their thumb!",
+    "image": "https://i.ibb.co/1zB1NJN/14.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-LiBuU13EaKmGOMjJF15" : {
+    "week" : "15",
+    "firebaseKey" : "-LiBuU13EaKmGOMjJF15",
+    "description" : "Your baby is approximately the size of an apple. They are now able to freely move, and muscle movement is controlled by their brain!",
+    "image": "https://i.ibb.co/pWYCcXz/15.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-LiBuU13EaKmGOMjJF16" : {
+    "week" : "16",
+    "firebaseKey" : "-LiBuU13EaKmGOMjJF16",
+    "description" : "The baby is the size of an avocado. They can ball their fist and suck their thumb at this point in their development!",
+    "image": "https://i.ibb.co/yRvYjFn/16.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-LiBuU13EaKmGOMjJF17" : {
+    "week" : "17",
+    "firebaseKey" : "-LiBuU13EaKmGOMjJF17",
+    "description" : "Your baby’s size resembles that of a pear. Did you know that in this stage, you can feel your baby hiccup?",
+    "image": "https://i.ibb.co/TW3J2rM/17.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-LiBuU13EaKmGOMjJF18" : {
+    "week" : "18",
+    "firebaseKey" : "-LiBuU13EaKmGOMjJF18",
+    "description" : "The baby is roughly the size of a sweet potato. They now have one-of-a-kind fingerprints!",
+    "image": "https://i.ibb.co/LxQCgyt/18.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-LiBuU13EaKmGOMjJF19" : {
+    "week" : "19",
+    "firebaseKey" : "-LiBuU13EaKmGOMjJF19",
+    "description" : "The baby is the size of a mango. The baby’s legs are now longer than their arms, and you will begin to feel their movements a bit more.",
+    "image": "https://i.ibb.co/bWwKJCc/19.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-LiBuU13EaKmGOMjJF20" : {
+    "week" : "20",
+    "firebaseKey" : "-LiBuU13EaKmGOMjJF20",
+    "description" : "The baby is the size of a banana, and they are starting to grow more hair!",
+    "image": "https://i.ibb.co/KWRxq93/20.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-G00uU13EaKmGOMjJF21" : {
+    "week" : "21",
+    "firebaseKey" : "-G00uU13EaKmGOMjJF21",
+    "description" : "Your baby’s size resembles that of a carrot. When you touch your stomach, your baby is now able to respond!",
+    "image": "https://i.ibb.co/Q9zq9zH/Firefly-carrot-wearing-a-diaper-83231.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-G00uU13EaKmGOMjJF22" : {
+    "week" : "22",
+    "firebaseKey" : "-G00uU13EaKmGOMjJF22",
+    "description" : "Your baby will be approximately the size of a papaya. In this stage, the baby’s lungs are developing quickly!",
+    "image": "https://i.ibb.co/Chf8byc/22.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-G00uU13EaKmGOMjJF23" : {
+    "week" : "23",
+    "firebaseKey" : "-G00uU13EaKmGOMjJF23",
+    "description" : "Your baby is the size of a grapefruit. More development has occurred in their brain and hearing, and at this stage, they begin to recognize your voice!",
+    "image": "https://i.ibb.co/BGC0JxC/23.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-G00uU13EaKmGOMjJF24" : {
+    "week" : "24",
+    "firebaseKey" : "-G00uU13EaKmGOMjJF24",
+    "description" : "Your baby is roughly the size of an ear of corn. “Practice breathing” occurs in this stage of development, and the baby’s nostrils inhale amniotic fluid.",
+    "image": "https://i.ibb.co/tMZkZYR/24.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-G00uU13EaKmGOMjJF25" : {
+    "week" : "25",
+    "firebaseKey" : "-G00uU13EaKmGOMjJF25",
+    "description" : "The baby has likely reached the size of an acorn squash. They can even stick their tongue out!",
+    "image": "https://i.ibb.co/4Wv7GsJ/25.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-G00uU13EaKmGOMjJF26" : {
+    "week" : "26",
+    "firebaseKey" : "-G00uU13EaKmGOMjJF26",
+    "description" : "The baby has grown to the size of a zucchini. They now have eyelashes, and even more hair!",
+    "image": "https://i.ibb.co/Wv74SXC/26.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-G00uU13EaKmGOMjJF27" : {
+    "week" : "27",
+    "firebaseKey" : "-G00uU13EaKmGOMjJF27",
+    "description" : "Your little one has reached the size of a cauliflower at the end of the second trimester. They can even recognize multiple voices, and notice the difference!",
+    "image": "https://i.ibb.co/nCMc947/27.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-G00uU13EaKmGOMjJF28" : {
+    "week" : "28",
+    "firebaseKey" : "-G00uU13EaKmGOMjJF28",
+    "description" : "The baby is approximately the size of an eggplant. They are now capable of opening their eyes and blinking!",
+    "image": "https://i.ibb.co/JQdxgyk/28.jpg",
     "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
   },
 
   "-BiBuU13EaKmGOMjJF-Z" : {
-    "week" : "35",
+    "week" : "29",
     "firebaseKey" : "-BiBuU13EaKmGOMjJF-Z",
-    "description" : "The bulk of the baby's development is already complete, but your little one more than puts these final weeks before birth to good use.",
-    "image": "https://cdn.dribbble.com/users/690291/screenshots/3510188/media/16e0021df389ae78243c4017e611e60a.gif",
+    "description" : "Your little one has grown to the size of a butternut squash. The brain is continuing to quickly develop!",
+    "image": "https://i.ibb.co/B37qxbd/Firefly-butternut-squash-wearing-a-diaper-cartoon-8632.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-G00uU13EaKmGOMjJF30" : {
+    "week" : "30",
+    "firebaseKey" : "-G00uU13EaKmGOMjJF30",
+    "description" : "The baby has reached the size of a large cabbage, and they begin to have a sleep cycle.",
+    "image": "https://i.ibb.co/SmZPL3C/30.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-G00uU13EaKmGOMjJF31" : {
+    "week" : "31",
+    "firebaseKey" : "-G00uU13EaKmGOMjJF31",
+    "description" : "They are likely the size of a coconut. The baby can potentially gain 0.5 pounds every week up until birth!",
+    "image": "https://i.ibb.co/Dt2PYgx/31.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-G00uU13EaKmGOMjJF32" : {
+    "week" : "32",
+    "firebaseKey" : "-G00uU13EaKmGOMjJF32",
+    "description" : "The baby has grown to the size of a jicama. At this point, your little one’s taste buds are developing, and they can begin to develop food preferences based on the nutrients they receive through amniotic fluid.",
+    "image": "https://i.ibb.co/LNrZZxx/32.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-P00uU13EaKmGOMjJF-A" : {
+    "week" : "33",
+    "firebaseKey" : "-P00uU13EaKmGOMjJF-A",
+    "description" : "The baby has reached the size of a pineapple, they are at the point of almost fully developing an immune system!",
+    "image": "https://i.ibb.co/s2wJCJ5/Firefly-pineapple-wearing-a-diaper-60594.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-P00uU13EaKmGOMjJF34" : {
+    "week" : "34",
+    "firebaseKey" : "-P00uU13EaKmGOMjJF34",
+    "description" : "The baby has reached the size of a cantaloupe. This stage of development includes increased body movement and fully-developed bones.",
+    "image": "https://i.ibb.co/k1QDxs2/34.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-P00uU13EaKmGOMjJF35" : {
+    "week" : "35",
+    "firebaseKey" : "-P00uU13EaKmGOMjJF35",
+    "description" : "The baby has grown to the size of a honeydew melon. They have already started getting ready for birth, which means that they are now positioned upside-down!",
+    "image": "https://i.ibb.co/YRK48Sb/35.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-P00uU13EaKmGOMjJF36" : {
+    "week" : "36",
+    "firebaseKey" : "-P00uU13EaKmGOMjJF36",
+    "description" : "Your baby is roughly the size of a head of lettuce. Where the baby’s skin was wrinkly before, it is starting to fill out as the baby gains weight and continues to grow!",
+    "image": "https://i.ibb.co/vJWz6XP/36.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-P00uU13EaKmGOMjJF37" : {
+    "week" : "37",
+    "firebaseKey" : "-P00uU13EaKmGOMjJF37",
+    "description" : "Your baby grows to the size of a stalk of swiss chard. You are so close to the end of pregnancy that the baby does not have as much room to kick. Instead, many of their movements just consist of wiggling or stretching.",
+    "image": "https://i.ibb.co/HG8GK0k/37.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-P00uU13EaKmGOMjJF38" : {
+    "week" : "38",
+    "firebaseKey" : "-P00uU13EaKmGOMjJF38",
+    "description" : "The baby’s size in terms of length is close to that of a stalk of rhubarb. At this stage, the brain is continuing to develop, and preparing your baby for birth and activities such as swallowing.",
+    "image": "https://i.ibb.co/GFBy9y4/38.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
+  },
+
+  "-P00uU13EaKmGOMjJF39" : {
+    "week" : "39",
+    "firebaseKey" : "-P00uU13EaKmGOMjJF39",
+    "description" : "The baby has reached the size of a small pumpkin. In this stage, they are now forming a smoother layer of skin!",
+    "image": "https://i.ibb.co/dBSSdj8/39.jpg",
     "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
   },
 
   "-PiBuU13EaKmGOMjJF-A" : {
     "week" : "40",
     "firebaseKey" : "-PiBuU13EaKmGOMjJF-A",
-    "description" : " You've reached the milestone everyone's been counting down to from the beginning",
-    "image": "https://cdn.dribbble.com/users/690291/screenshots/3492348/media/0cace5c3ca07c6b07ae4d594437750d5.gif",
+    "description" : "The baby has reached the size of a watermelon. This is often the final week of pregnancy! Congrats, you did it!",
+    "image": "https://i.ibb.co/CtgjPy9/Watermelon.jpg",
     "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2"
   }
+
 }

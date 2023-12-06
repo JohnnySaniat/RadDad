@@ -14,19 +14,19 @@ function MomentCard({ momentObj, onUpdate }) {
   };
 
   return (
-    <Card style={{ width: '22rem', margin: '20px' }}>
+    <Card className="complete-moment-card" style={{ width: '22rem', margin: '20px' }}>
       <Card.Img variant="top" src={momentObj.image} alt={momentObj.name} style={{ height: '400px' }} />
       <Card.Body>
-        <Card.Title>{momentObj.category}</Card.Title>
+        <Card.Title className="card-title">{momentObj.category}</Card.Title>
         <Card.Text>{momentObj.name}</Card.Text>
         <Card.Text>{momentObj.description}</Card.Text>
         <Link href={`/moment/${momentObj.firebaseKey}`} passHref>
-          <Button variant="primary" className="m-2">VIEW</Button>
+          <Button className="card-button" variant="secondary">VIEW</Button>
         </Link>
         <Link href={`/moment/edit/${momentObj.firebaseKey}`} passHref>
-          <Button variant="info">EDIT</Button>
+          <Button className="card-button" variant="secondary">EDIT</Button>
         </Link>
-        <Button variant="danger" onClick={deleteThisMoment} className="m-2">
+        <Button className="card-button" variant="secondary" onClick={deleteThisMoment}>
           DELETE
         </Button>
       </Card.Body>
