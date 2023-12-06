@@ -38,8 +38,23 @@ const getSingleSuggested = (firebaseKey) => new Promise((resolve, reject) => {
     .catch(reject);
 });
 
+const searchSuggested = (searchValue, uid) => new Promise((resolve, reject) => {
+  getSuggested(uid).then((momentArray) => {
+    const searchResults = momentArray.filter((moment) => (
+      moment.name.toLowerCase().includes(searchValue)
+      || moment.category.toLowerCase().includes(searchValue)
+      || moment.description.toLowerCase().includes(searchValue)
+      || moment.week.includes(searchValue)
+
+    ));
+    resolve(searchResults);
+    console.warn(searchResults);
+  }).catch(reject);
+});
+
 export {
   getSuggested,
   deleteSuggested,
   getSingleSuggested,
+  searchSuggested,
 };

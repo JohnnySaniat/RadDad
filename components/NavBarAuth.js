@@ -2,16 +2,18 @@
 import React from 'react';
 import Link from 'next/link';
 import {
-  Navbar, Container, Nav, Button,
+  Navbar, Container, Nav, Button, Image,
 } from 'react-bootstrap';
 import { signOut } from '../utils/auth';
 
 export default function NavBarAuth() {
   return (
-    <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
+    <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" className="Navigation">
       <Container>
         <Link passHref href="/">
-          <Navbar.Brand>RAD DAD</Navbar.Brand>
+          <Navbar.Brand className="fullLogo"> RAD
+            <Image className="navbarLogo" src="https://i.ibb.co/6v96jvQ/PTP-Big-Jarn-2-112.png" alt="RAD DAD Logo" fluid />DAD
+          </Navbar.Brand>
         </Link>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">

@@ -119,16 +119,16 @@ function MomentForm({ obj }) {
           required
         >
           <option value="">Select a Week</option>
-          {
-            milestones.map((milestone) => (
+          {milestones
+            .sort((a, b) => a.week - b.week)
+            .map((milestone) => (
               <option
                 key={milestone.firebaseKey}
                 value={milestone.firebaseKey}
               >
                 {milestone.week}
               </option>
-            ))
-          }
+            ))}
         </Form.Select>
       </FloatingLabel>
 

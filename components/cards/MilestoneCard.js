@@ -14,19 +14,19 @@ function MilestoneCard({ milestoneObj, onUpdate }) {
   };
 
   return (
-    <Card style={{ width: '22rem', margin: '20px' }}>
+    <Card className="complete-milestone-card" style={{ width: '22rem', margin: '20px' }}>
       <Card.Img variant="top" src={milestoneObj.image} alt={milestoneObj.week} style={{ height: '400px' }} />
       <Card.Body>
-        <Card.Title>{milestoneObj.week}</Card.Title>
-        <span>{milestoneObj.description}</span>
+        <Card.Title className="card-title">{milestoneObj.week}</Card.Title>
+        <span className="card-description">{milestoneObj.description}</span>
         <br />
         <Link href={`/milestone/${milestoneObj.firebaseKey}`} passHref>
-          <Button variant="primary" className="m-2">VIEW</Button>
+          <Button className="card-button" variant="secondary">VIEW</Button>
         </Link>
         <Link href={`/milestone/edit/${milestoneObj.firebaseKey}`} passHref>
-          <Button variant="info">EDIT</Button>
+          <Button className="card-button" variant="secondary">EDIT</Button>
         </Link>
-        <Button variant="danger" onClick={deleteMilestone} className="m-2">
+        <Button variant="secondary" onClick={deleteMilestone} className="card-button">
           DELETE
         </Button>
       </Card.Body>

@@ -1,11 +1,11 @@
 @import 'bootstrap/dist/css/bootstrap.css';
+@import url('https://fonts.googleapis.com/css2?family=Cairo+Play:wght@600&family=Exo+2:wght@500&family=Nova+Square&family=Pacifico&display=swap');
 
 html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: 'Nova Square', sans-serif;
 }
 
 a {
@@ -18,5 +18,84 @@ a {
 }
 
 body {
-  background-color: #e4b9e4;
+  background-color: #b3adb3;
+}
+
+.Navigation {
+  display: flex;
+  justify-content: space-between;
+  font-size: 18px;
+  padding: 0px;
+}
+
+.complete-milestone-card{
+  border-width: 2.15px;
+  border-color: black;
+}
+
+.complete-moment-card{
+  border-width: 2.15px;
+  border-color: black;
+}
+
+.complete-suggested-card{
+  border-width: 2.15px;
+  border-color: black;
+}
+
+.card-title {
+  color: black;
+  font-size: 45px;
+  font-family: 'Pacifico', cursive;
+}
+
+.card-button {
+  padding: 10px;
+  margin: 10px;
+  width: 85px;
+  background-color: #157e79;
+}
+
+.card-description {
+  padding: 6px, 12px;
+  margin: 6px;
+  font-size: 20px;
+}
+
+.suggested-card-button {
+  padding: 10px;
+  margin: 10px;
+  width: 200px;
+  background-color: #157e79;
+  color: white;
+  font-size: 18px;
+}
+
+.complete-milestone-card:hover,
+.complete-moment-card:hover,
+.complete-suggested-card:hover {
+  box-shadow: 0 0 15px rgba(21, 126, 121, 0.8);
+}
+
+.card-button,
+.suggested-card-button {
+  transition: transform 0.3s ease-in-out;
+}
+
+.card-button:hover,
+.suggested-card-button:hover {
+  transform: scale(1.1);
+}
+
+.navbarLogo {
+  height: 60px;
+}
+
+.fullLogo {
+  size: 150px;
+  margin-right: 75px;
+}
+
+.nav-link{
+  margin-right: 20px;
 }
