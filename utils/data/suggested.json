@@ -1,59 +1,53 @@
 {
   "-JoHsfuTafbEQ7eAULxV" : {
-    "name" : "Wubby Dubby",
+    "name" : "Fears",
     "firebaseKey" : "-JoHsfuTafbEQ7eAULxV",
-    "category" : "Sustain",
+    "category" : "Learn",
     "image": "https://i.ibb.co/VqJBQhC/Firefly-a-blueberry-that-is-a-cartoon-plays-asks-a-question-31581.jpg",
     "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2",
-    "description": "This simple and sweet kale and banana smoothie is also versatile: Use cow's milk for a milkshake-style smoothie, oat milk for more sweetness, or a nut milk for more protein.",
-    "milestone_id": "-MiBuU13EaKmGOMjJF-X",
-    "week": "Conception"
+    "description": "Discuss you and your partner's fears of becoming a parent.",
+    "milestone_id": "-MiBuU13EaKmGOMjJF-X"
   },
   "-JuBt86VzkC-EGmJnxjm" : {
-    "name" : "Jarn Bawls",
+    "name" : "Bowling",
     "firebaseKey" : "-JuBt86VzkC-EGmJnxjm",
-    "category" : "Learn",
+    "category" : "Experience",
     "image": "https://i.ibb.co/PC7hSF8/Firefly-a-butternut-squash-that-is-a-cartoon-at-a-bowling-alley-24275.jpg",
     "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2",
-    "description": "Do you want to talk about how you both feel about pregnancy and your expectations.",
-    "milestone_id": "-MiBuU13EaKmGOMjJF-X",
-    "week": "Conception"
+    "description": "Surprise your partner with a bowling date night!",
+    "milestone_id": "-MiBuU13EaKmGOMjJF-X"
   },
   "-Flutwf1BwN9pGavQeR3" : {
-    "name" : "Gooby Died",
+    "name" : "Protein-Packed Chicken Arugula Salad",
     "firebaseKey" : "-Flutwf1BwN9pGavQeR3",
-    "category" : "Schedule",
+    "category" : "Sustain",
     "image": "https://i.ibb.co/V3kL5NM/Firefly-a-carrot-that-is-a-cartoon-holds-a-bowl-of-salad-95634.jpg",
     "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2",
-    "description": "Schedule a preconception appointment.",
-    "milestone_id": "-MiBuU13EaKmGOMjJF-X",
-    "week": "Conception"
+    "description": "This salad's hearty combination of beans, chicken, tomatoes, and arugula will keep you satisfied all afternoon. Plus, chicken boosts the protein quotient—and provides other important nutrients during pregnancy like zinc, copper, iron, thiamin, and vitamin B6.",
+    "milestone_id": "-MiBuU13EaKmGOMjJF-X"
   },
   "-ChiuOfHv9NCKB_cneij" : {
-    "name" : "Grambo",
+    "name" : "Doctor Selection",
     "firebaseKey" : "-ChiuOfHv9NCKB_cneij",
-    "category" : "Experience",
-    "image": "https://i.ibb.co/h12p9P3/Firefly-a-lime-cartoon-view-an-xray-90059-1.jpg",
+    "category" : "Schedule",
+    "image": "https://i.ibb.co/XsC3SHj/Firefly-cartoon-pineapple-baby-goes-to-the-doctor-753.jpg",
     "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2",
-    "description": "Plan a hike to stay active together",
-    "week": "Conception"
+    "description": "Schedule an appointment to meet with a doctor of interest and their team."
   },
-  "-ChiuOfHv9NCKB_cnbuf" : {
-    "name" : "Grambo",
-    "firebaseKey" : "-ChiuOfHv9NCKB_cneij",
-    "category" : "Experience",
+  "-ChiuOfHv9NCKB_cneix" : {
+    "name" : "Parenting Styles",
+    "firebaseKey" : "-ChiuOfHv9NCKB_cneix",
+    "category" : "Learn",
     "image": "https://i.ibb.co/9H441LR/Firefly-a-pineapple-cartoon-couple-11058.jpg",
     "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2",
-    "description": "Plan a hike to stay active together",
-    "week": "Conception"
+    "description": "Discuss what you loved and did not like about how you were raised."
   },
-  "-ChiuOfHv9NCKB_cnruf" : {
-    "name" : "Grambo",
-    "firebaseKey" : "-ChiuOfHv9NCKB_cneij",
+  "ChiuOfHv9NCKB_cneiv" : {
+    "name" : "Yoga",
+    "firebaseKey" : "-ChiuOfHv9NCKB_cneiv",
     "category" : "Experience",
     "image": "https://i.ibb.co/Vx12qbw/Firefly-a-watermelon-cartoon-does-yoga-90059.jpg",
     "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2",
-    "description": "Plan a hike to stay active together",
-    "week": "Conception"
+    "description": "Roll out the yoga mats and find a relaxing yoga session to share."
   }
 }

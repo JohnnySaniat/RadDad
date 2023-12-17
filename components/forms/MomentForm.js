@@ -13,6 +13,7 @@ const initialState = {
   name: '',
   image: '',
   category: '',
+  description: '',
 };
 
 function MomentForm({ obj }) {

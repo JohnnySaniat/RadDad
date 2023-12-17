@@ -8,11 +8,11 @@ import { signOut } from '../utils/auth';
 
 export default function NavBarAuth() {
   return (
-    <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" className="Navigation">
+    <Navbar collapseOnSelect expand="lg" variant="dark" className="navigation">
       <Container>
         <Link passHref href="/">
-          <Navbar.Brand className="fullLogo"> RAD
-            <Image className="navbarLogo" src="https://i.ibb.co/6v96jvQ/PTP-Big-Jarn-2-112.png" alt="RAD DAD Logo" fluid />DAD
+          <Navbar.Brand className="fullLogo">
+            <Image className="navbar-logo" src="https://i.ibb.co/6v96jvQ/PTP-Big-Jarn-2-112.png" alt="RAD DAD Logo" fluid />
           </Navbar.Brand>
         </Link>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
@@ -20,22 +20,22 @@ export default function NavBarAuth() {
           <Nav className="ml-auto">
             {/* CLOSE NAVBAR ON LINK SELECTION: https://stackoverflow.com/questions/72813635/collapse-on-select-react-bootstrap-navbar-with-nextjs-not-working */}
             <Link passHref href="/milestones">
-              <Nav.Link>Milestones</Nav.Link>
+              <Nav.Link style={{ marginRight: '10px' }}>Milestones</Nav.Link>
             </Link>
             <Link passHref href="/milestone/new">
-              <Nav.Link>Create a Milestone</Nav.Link>
+              <Nav.Link style={{ marginRight: '10px' }}>Create a Milestone</Nav.Link>
             </Link>
             <Link passHref href="/moments">
-              <Nav.Link>Moments</Nav.Link>
+              <Nav.Link style={{ marginRight: '10px' }}>Moments</Nav.Link>
             </Link>
             <Link passHref href="/moment/new">
-              <Nav.Link>Create a Moment</Nav.Link>
+              <Nav.Link style={{ marginRight: '10px' }}>Create a Moment</Nav.Link>
             </Link>
             <Link passHref href="/suggested">
-              <Nav.Link>Suggested Moments</Nav.Link>
+              <Nav.Link style={{ marginRight: '10px' }}>Suggested Moments</Nav.Link>
             </Link>
-            <Button type="button" className="btn-danger" onClick={signOut}>Sign Out</Button>
           </Nav>
+          <Button type="button" className="btn-danger" id="sign-out-button" style={{ marginLeft: 'auto' }} onClick={signOut}>Sign Out</Button>
         </Navbar.Collapse>
       </Container>
     </Navbar>

@@ -21,9 +21,15 @@ export default function ViewMilestone() {
   }, []);
 
   return (
-    <div>{milestoneDetails.moments?.map((moment) => (
-      <MomentCard key={moment.firebaseKey} momentObj={moment} onUpdate={getMDetails} />
-    ))}
-    </div>
+    <>
+      <div className="text-center my-4">
+        <div className="d-flex flex-wrap">
+          {milestoneDetails.moments?.map((moment) => (
+            <MomentCard key={moment.firebaseKey} momentObj={moment} onUpdate={getMDetails} />
+          ))}
+        </div>
+      </div>
+
+    </>
   );
 }

@@ -5,7 +5,7 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: 'Nova Square', sans-serif;
+  font-family: 'Nova Square', sans-serif !important;
 }
 
 a {
@@ -21,11 +21,12 @@ body {
   background-color: #b3adb3;
 }
 
-.Navigation {
+.navigation {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   font-size: 18px;
-  padding: 0px;
+  background: url('https://us.123rf.com/450wm/rawpixel/rawpixel1902/rawpixel190205808/117591876-green-painted-smooth-textured-background.jpg?ver=6') center/cover;
 }
 
 .complete-milestone-card{
@@ -46,7 +47,7 @@ body {
 .card-title {
   color: black;
   font-size: 45px;
-  font-family: 'Pacifico', cursive;
+  font-family: 'Pacifico', cursive !important;
 }
 
 .card-button {
@@ -87,15 +88,65 @@ body {
   transform: scale(1.1);
 }
 
-.navbarLogo {
+#back-button {
+  width: 125px;
+}
+
+#edit-button {
+  width: 125px;
+}
+
+.center-moment{
+  display: flex;
+  justify-content: center;
+}
+
+.navbar-logo {
   height: 60px;
+  width: 75px;
 }
 
-.fullLogo {
-  size: 150px;
-  margin-right: 75px;
+.card-text {
+  font-size: 18px;
 }
 
-.nav-link{
-  margin-right: 20px;
+#sign-out-button:hover {
+  animation: shake 0.5s;
+}
+
+@keyframes shake {
+  0% { transform: translateX(0); }
+  25% { transform: translateX(-5px); }
+  50% { transform: translateX(5px); }
+  75% { transform: translateX(-5px); }
+  100% { transform: translateX(5px); }
+
+}
+
+#sign-out-button {
+  width: 140px;
+}
+
+.section-title {
+  display: flex;
+  justify-content: center;
+  color: black;
+  font-size: 175px;
+  font-family: 'Pacifico', cursive !important;
+}
+
+.section-title-auth {
+  display: flex;
+  justify-content: center;
+  color: black;
+  font-size: 180px;
+  font-family: 'Pacifico', cursive !important;
+}
+
+.section-description {
+  display: flex;
+  justify-content: center;
+  color: black;
+  font-size: 45px;
+  padding-top: 25px;
 }
