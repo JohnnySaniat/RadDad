@@ -18,7 +18,7 @@ a {
 }
 
 body {
-  background-color: #b3adb3;
+  background-color: #b3adb3 !important;
 }
 
 .navigation {
