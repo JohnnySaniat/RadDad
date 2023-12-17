@@ -24,8 +24,10 @@ export default function Search() {
 
   return (
     <>
-      <div className="d-flex flex-wrap">
-        {filteredMilestones.map((milestone) => <MilestoneCard key={milestone.firebaseKey} milestoneObj={milestone} onUpdate={searchAllMilestones} />)}
+      <div className="text-center my-4">
+        <div className="d-flex flex-wrap">
+          {filteredMilestones.map((milestone) => <MilestoneCard key={milestone.firebaseKey} milestoneObj={milestone} onUpdate={searchAllMilestones} />)}
+        </div>
       </div>
     </>
   );

@@ -3,11 +3,10 @@
     "name" : "Kale & Banana Smoothie",
     "firebaseKey" : "-MiBsfuTafbEQ7eAULxV",
     "category" : "Sustain",
-    "image": "https://i.ibb.co/dmqrq94/Firefly-a-butternut-squash-that-is-a-cartoon-plays-a-board-game-95634.jpg",
+    "image": "https://i.ibb.co/vzQPBJk/Firefly-a-lime-that-is-a-cartoon-makes-a-smoothie-31581.jpg",
     "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2",
     "description": "This simple and sweet kale and banana smoothie is also versatile: Use cow's milk for a milkshake-style smoothie, oat milk for more sweetness, or a nut milk for more protein.",
-    "milestone_id": "-MiBuU13EaKmGOMjJF-X",
-    "week": "Conception"
+    "milestone_id": "-NkRnHfYjG5Kz3SzDCYf"
   },
   "-MiBt86VzkC-EGmJnxjm" : {
     "name" : "Expectations",
@@ -15,45 +14,43 @@
     "category" : "Learn",
     "image": "https://i.ibb.co/nbBfDZ8/Firefly-a-carrot-that-is-a-cartoon-plays-asks-a-question-753.jpg",
     "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2",
-    "description": "Do you want to talk about how you both feel about pregnancy and your expectations.",
-    "milestone_id": "-MiBuU13EaKmGOMjJF-X",
-    "week": "Conception"
+    "description": "Discuss your expectations in regards to pregancy reveals and timeframes to do so.",
+    "milestone_id": "-NkRnHfYjG5Kz3SzDCYf"
   },
   "-MiBtwf1BwN9pGavQeR3" : {
-    "name" : "Determine a Doctor or Midwife",
+    "name" : "Scans",
     "firebaseKey" : "-MiBtwf1BwN9pGavQeR3",
     "category" : "Schedule",
-    "image": "https://i.ibb.co/vzQPBJk/Firefly-a-lime-that-is-a-cartoon-makes-a-smoothie-31581.jpg",
+    "image": "https://i.ibb.co/h12p9P3/Firefly-a-lime-cartoon-view-an-xray-90059-1.jpg",
     "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2",
-    "description": "Schedule a preconception appointment.",
-    "milestone_id": "-MiBuU13EaKmGOMjJF-X",
-    "week": "Conception"
+    "description": "It's time to schedule your remaining scans!",
+    "milestone_id": "-NkRnHfYjG5Kz3SzDCYf"
   },
   "-MiBuOfHv9NCKB_cneij" : {
     "name" : "Hike",
     "firebaseKey" : "-MiBuOfHv9NCKB_cneij",
     "category" : "Experience",
-    "image": "https://i.ibb.co/gwsyWt6/Firefly-a-watermelon-that-is-a-cartoon-asks-a-question-753.jpg",
-    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2",
-    "description": "Plan a hike to stay active together",
-    "week": "Conception"
-  },
-  "-XXXuOfHv9NCKB_cneij" : {
-    "name" : "Hike",
-    "firebaseKey" : "-XXXuOfHv9NCKB_cneij",
-    "category" : "Experience",
     "image": "https://i.ibb.co/HHdf97b/Firefly-blueberry-cartoon-hiking-31581.jpg",
     "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2",
-    "description": "Plan a hike to stay active together",
-    "week": "Conception"
+    "description": "Checkout AllTrails.com to determine a hike that aligns with you and your partner's skill level.",
+    "milestone_id": "-NkRnHfYjG5Kz3SzDCYf"
+  },
+  "-XXXuOfHv9NCKB_cneij" : {
+    "name" : "Board Game Night",
+    "firebaseKey" : "-XXXuOfHv9NCKB_cneij",
+    "category" : "Experience",
+    "image": "https://i.ibb.co/dmqrq94/Firefly-a-butternut-squash-that-is-a-cartoon-plays-a-board-game-95634.jpg",
+    "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2",
+    "description": "Head to your local game store and pick out a game to learn together or grab a classic!",
+    "milestone_id": "-NkRnHfYjG5Kz3SzDCYf"
   },
   "-PPPuOfHv9NCKB_cneij" : {
-    "name" : "Hike",
+    "name" : "Names",
     "firebaseKey" : "-PPPuOfHv9NCKB_cneij",
-    "category" : "Experience",
-    "image": "https://i.ibb.co/XsC3SHj/Firefly-cartoon-pineapple-baby-goes-to-the-doctor-753.jpg",
+    "category" : "Learn",
+    "image": "https://i.ibb.co/3dbTGg7/Firefly-a-baby-lemon-wearing-a-diaper-asks-a-question-32747.jpg",
     "uid": "W2BheHdYpcckkPq9hk3Vyk3MSQF2",
-    "description": "Plan a hike to stay active together",
-    "week": "Conception"
+    "description": "Challenge your partner to make a list of names that they enjoy, share your thoughts and feelings about your direction.",
+    "milestone_id": "-NkRnHfYjG5Kz3SzDCYf"
   }
 }

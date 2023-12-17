@@ -21,14 +21,12 @@ function ShowMilestones() {
   }, []);
 
   return (
-    <div className="test">
-      <div className="text-center my-4">
-        <MilestoneSearchBar className="navSearch" />
-        <div className="d-flex flex-wrap">
-          {milestones.map((milestone) => (
-            <MilestoneCard key={milestone.firebaseKey} milestoneObj={milestone} onUpdate={getAllTheMilestones} />
-          ))}
-        </div>
+    <div className="text-center my-4">
+      <MilestoneSearchBar className="navSearch" />
+      <div className="d-flex flex-wrap">
+        {milestones.map((milestone) => (
+          <MilestoneCard key={milestone.firebaseKey} milestoneObj={milestone} onUpdate={getAllTheMilestones} />
+        ))}
       </div>
     </div>
   );

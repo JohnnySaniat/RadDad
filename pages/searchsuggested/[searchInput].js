@@ -24,8 +24,10 @@ export default function Search() {
 
   return (
     <>
-      <div className="d-flex flex-wrap">
-        {filteredMoments.map((suggested) => <SuggestedCard key={suggested.firebaseKey} stockObj={suggested} onUpdate={searchAllSuggestedMoments} />)}
+      <div className="text-center my-4">
+        <div className="d-flex flex-wrap">
+          {filteredMoments.map((suggested) => <SuggestedCard key={suggested.firebaseKey} stockObj={suggested} onUpdate={searchAllSuggestedMoments} />)}
+        </div>
       </div>
     </>
   );

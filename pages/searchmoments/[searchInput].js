@@ -24,8 +24,10 @@ export default function Search() {
 
   return (
     <>
-      <div className="d-flex flex-wrap">
-        {filteredMoments.map((moment) => <MomentCard key={moment.firebaseKey} momentObj={moment} onUpdate={searchAllMoments} />)}
+      <div className="text-center my-4">
+        <div className="d-flex flex-wrap">
+          {filteredMoments.map((moment) => <MomentCard key={moment.firebaseKey} momentObj={moment} onUpdate={searchAllMoments} />)}
+        </div>
       </div>
     </>
   );

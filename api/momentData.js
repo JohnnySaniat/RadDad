@@ -82,7 +82,6 @@ const searchMoments = (searchValue, uid) => new Promise((resolve, reject) => {
       moment.name.toLowerCase().includes(searchValue)
       || moment.category.toLowerCase().includes(searchValue)
       || moment.description.toLowerCase().includes(searchValue)
-      || moment.week.includes(searchValue)
 
     ));
     resolve(searchResults);
