@@ -2,7 +2,7 @@
 
 Rad Dad is designed to assist those who are supporting a pregnancy. Learn to tailer support, sustain a healthy lifestyle, experience the journey together, and schedule the moments that matter all with Rad Dad.
 
-[View App](#https://johnnysaniat-raddad.netlify.app)
+[View App] #https://johnnysaniat-raddad.netlify.app
 
 ## About the User 
 - The ideal user for this application is a partner supporting a pregnancy 
