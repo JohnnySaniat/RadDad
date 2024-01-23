@@ -16,14 +16,6 @@ Rad Dad is designed to assist those who are supporting a pregnancy. Learn to tai
 - Users can choose from Suggested Moments to easily build out their Milestones
 - Users can search through Milestones, Moments, and Suggested Milestones
 
-## Project Screenshots 
-![Home Page](../WeekByWeek/images/image.png)
-![Milestones](../WeekByWeek/images/image-1.png)
-![Milestone Form](../WeekByWeek/images/image-2.png)
-![Moments](../WeekByWeek/images/image-3.png)
-![Moment Form](../WeekByWeek/images/image-4.png)
-![Suggested Moments](../WeekByWeek/images/image-5.png)
-
 ## Contributors
 - [Johnny Saniat](https://github.com/JohnnySaniat/)
 - [Adobe Firefly](https://www.adobe.com/products/firefly.html)
