@@ -1,6 +1,6 @@
 # Rad Dad
 
-Rad Dad is designed to assist those who are supporting a pregnancy. Learn to tailer support, sustain a healthy lifestyle, experience the journey together, and schedule the moments that matter all with Rad Dad.
+Rad Dad is designed to assist those who are supporting a pregnancy. Learn to tailor support, sustain a healthy lifestyle, experience the journey together, and schedule the moments that matter all with Rad Dad.
 
 [View App] https://johnnysaniat-raddad.netlify.app
 
