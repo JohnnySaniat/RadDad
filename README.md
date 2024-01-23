@@ -1,4 +1,4 @@
-# Rad Dad  [![Netlify Status](https://api.netlify.com/api/v1/badges/f46940bb-f8b4-416c-8ed9-26315a42ccbb/deploy-status)][(https://app.netlify.com/sites/johnnysaniat-raddad/deploys)](https://johnnysaniat-raddad.netlify.app/)
+# Rad Dad
 
 Rad Dad is designed to assist those who are supporting a pregnancy. Learn to tailer support, sustain a healthy lifestyle, experience the journey together, and schedule the moments that matter all with Rad Dad.
 
@@ -15,10 +15,6 @@ Rad Dad is designed to assist those who are supporting a pregnancy. Learn to tai
 - Users can view all of the Moments that are contained in each Milestone
 - Users can choose from Suggested Moments to easily build out their Milestones
 - Users can search through Milestones, Moments, and Suggested Milestones
-
-## Video Walkthrough of APP NAME 
-https://www.loom.com/share/829b90d831ea441ba2db6bea724af210
-
 
 ## Project Screenshots 
 ![Home Page](../WeekByWeek/images/image.png)
